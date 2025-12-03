@@ -1,2 +1,2 @@
-# Open-Website-Privacy-Policy
-Privacy policy website set
+# zhisixing-privacy-policy
+Privacy policy for zhisixing iOS app
